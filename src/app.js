@@ -1,22 +1,16 @@
 import express from "express";
+import databaseConnect from "./config/DbConnect.js";
+
+const connection = await databaseConnect();
+
+connection.on("error", (error) => console.error("Connection error", error));
+
+connection.once("open", () => {
+  console.log("Database connected");
+});
 
 const app = express();
 app.use(express.json());
-
-const books = [
-  {
-    id: 1,
-    title: "The Accursed God",
-  },
-  {
-    id: 2,
-    title: "The Rise of Sivagami",
-  },
-  {
-    id: 3,
-    title: "The Secret of the Nagas",
-  },
-];
 
 function getBookById(id) {
   return books.findIndex((book) => book.id === Number(id));

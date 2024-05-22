@@ -1,0 +1,3786 @@
+[
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "alexandre.rodrigues@stone.com.br",
+        "name": "ALEXANDRE BRUNO RODRIGUES",
+        "team": "[3230] G&G CSC E OPERAÇÕES # LOGÍSTICA # BI",
+        "position": "ESPECIALISTA DE PLANEJAMENTO E CONTROLE",
+        "email": "alexandre.rodrigues@stone.com.br",
+        "login_manager": "henrique.madeira@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_logistica"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2019-07-15 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "11609"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "alexandre.rodrigues@stone.com.br",
+        "name": "ALEXANDRE BRUNO RODRIGUES",
+        "email": "alexandre.rodrigues@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:16.778170"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "alisson.silva@equals.com.br",
+        "name": "ALISSON VILACA SILVA",
+        "team": "[2260] SOFTWARE # EQUALS CORE - DESENVOLVIMENTO @ LAVRAS",
+        "position": "LIDER DE DESENVOLVEDORES",
+        "email": "alisson.silva@equals.com.br",
+        "login_manager": "guilherme.oliveira@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2018-06-01 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "2631"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "alisson.silva@equals.com.br",
+        "name": "ALISSON VILACA SILVA",
+        "email": "alisson.silva@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:17.497212"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "caio.ssouza@stone.com.br",
+        "name": "CAIO SOARES SOUZA",
+        "team": "[547] G&G CSC E OPERAÇÕES # LOGÍSTICA # HARDWARE & TELECOM",
+        "position": "ANALISTA DE TELECOM",
+        "email": "caio.ssouza@stone.com.br",
+        "login_manager": "gabriela.leite@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_logistica"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2020-11-16 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "343605"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "caio.ssouza@stone.com.br",
+        "name": "CAIO SOARES SOUZA",
+        "email": "caio.ssouza@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:18.151143"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "eder.rodrigues@stone.com.br",
+        "name": "EDER MIQUEIAS CORDEIRO RODRIGUES",
+        "team": "[3791] TECNOLOGIA # PRODUTO # OPERATIONS PRODUCT # ATENDIMENTO E SERVIÇO - LOGÍSTICA",
+        "position": "DESENVOLVEDOR",
+        "email": "eder.rodrigues@stone.com.br",
+        "login_manager": "mariana.brito@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-05-03 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "350105"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "eder.rodrigues@stone.com.br",
+        "name": "EDER MIQUEIAS CORDEIRO RODRIGUES",
+        "email": "eder.rodrigues@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:18.929896"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "pedro.bandoli@stone.com.br",
+        "name": "PEDRO IVO TERRA BANDOLI",
+        "team": "[3791] TECNOLOGIA # PRODUTO # OPERATIONS PRODUCT # ATENDIMENTO E SERVIÇO - LOGÍSTICA",
+        "position": "DESENVOLVEDOR",
+        "email": "pedro.bandoli@stone.com.br",
+        "login_manager": "gabriel.xara@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-05-17 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "350522"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "pedro.bandoli@stone.com.br",
+        "name": "PEDRO IVO TERRA BANDOLI",
+        "email": "pedro.bandoli@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:19.641269"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "danilo.carvalho@equals.com.br",
+        "name": "DANILO DE SOUZA CARVALHO",
+        "team": "[2273] SOFTWARE # EQUALS RAIO X - MARKETING @ SAO PAULO",
+        "position": "ANALISTA DE MARKETING",
+        "email": "danilo.carvalho@equals.com.br",
+        "login_manager": "fernanda.marques@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-06-07 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "351212"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "danilo.carvalho@equals.com.br",
+        "name": "DANILO DE SOUZA CARVALHO",
+        "email": "danilo.carvalho@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:20.392936"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "julia.garcia@equals.com.br",
+        "name": "JULIA GOMES GARCIA",
+        "team": "[2267] SOFTWARE # EQUALS RAIO X - BACKOFFICE DE PRODUTO @ SAO PAULO",
+        "position": "DESIGNER UX/UI",
+        "email": "julia.garcia@equals.com.br",
+        "login_manager": "isadora.rodrigues@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-06-07 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "351251"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "julia.garcia@equals.com.br",
+        "name": "JULIA GOMES GARCIA",
+        "email": "julia.garcia@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:20.393964"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jonatas.lsilva@stone.com.br",
+        "name": "JONATAS DE LIMA SILVA",
+        "team": "[2776] LOGÍSTICA # OPERAÇÃO # SUPPLY # CD PRÓPRIO # CD LOG BARUERI # LABORATÓRIO",
+        "position": "MAKER LABORATORIO",
+        "email": "jonatas.lsilva@stone.com.br",
+        "login_manager": "thiago.silverio@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_logistica"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-07-19 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "353121"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jonatas.lsilva@stone.com.br",
+        "name": "JONATAS DE LIMA SILVA",
+        "email": "jonatas.lsilva@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:20.394619"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "ricardo.oliveira@equals.com.br",
+        "name": "RICARDO PIOTTO DE OLIVEIRA",
+        "team": "[2261] SOFTWARE # EQUALS CORE - FORÇA DE VENDAS @ SAO PAULO",
+        "position": "LIDER DE VENDAS",
+        "email": "ricardo.oliveira@equals.com.br",
+        "login_manager": "larissa.facin@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-08-16 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "354068"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "ricardo.oliveira@equals.com.br",
+        "name": "RICARDO PIOTTO DE OLIVEIRA",
+        "email": "ricardo.oliveira@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:21.064091"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "pedro.maia@stone.com.br",
+        "name": "PEDRO HENRIQUE MAIA SILVA",
+        "team": "[1447] COMERCIAL MUNDO FÍSICO # POLO PRÓPRIO @ POLO CONTAGEM - CENTRO",
+        "position": "AGENTE",
+        "email": "pedro.maia@stone.com.br",
+        "login_manager": "rayra.santos@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_gps"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-09-20 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "355315"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "pedro.maia@stone.com.br",
+        "name": "PEDRO HENRIQUE MAIA SILVA",
+        "email": "pedro.maia@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:21.065223"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jessica.ssouza@vitta.me",
+        "name": "JESSICA SANTOS DE SOUZA",
+        "team": "[4366] VITTA # VITTA KA # TIME DE ENFERMAGEM",
+        "position": "ENFERMEIRO(A)",
+        "email": "jessica.ssouza@vitta.me",
+        "login_manager": "diego.saraujo@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2020-12-15 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "356294"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jessica.ssouza@vitta.me",
+        "name": "JESSICA SANTOS DE SOUZA",
+        "email": "jessica.ssouza@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:21.065710"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jessica.bonucci@vitta.me",
+        "name": "JESSICA BONUCCI",
+        "team": "[3608] VITTA # VITTA KA # PRODUTO # MEMBROS",
+        "position": "ANALISTA DE PRODUTO",
+        "email": "jessica.bonucci@vitta.me",
+        "login_manager": "roberto.gaziola@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2020-01-06 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "356408"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jessica.bonucci@vitta.me",
+        "name": "JESSICA BONUCCI",
+        "email": "jessica.bonucci@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:21.978515"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "anderson.cavalcante@vitta.me",
+        "name": "ANDERSON DA SILVA CAVALCANTE",
+        "team": "[2911] VITTA # VITTA KA # BANNET",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "anderson.cavalcante@vitta.me",
+        "login_manager": "ga.dantas@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-06-02 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "356774"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "anderson.cavalcante@vitta.me",
+        "name": "ANDERSON DA SILVA CAVALCANTE",
+        "email": "anderson.cavalcante@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:22.682518"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "eduarda.vieira@vitta.me",
+        "name": "EDUARDA VIEIRA DO NASCIMENTO",
+        "team": "[3639] VITTA # VITTA KA # OPERAÇÕES AMBULATORIAIS # SUPORTE",
+        "position": "ANALISTA DE EXPERIÊNCIA DO MÉDICO",
+        "email": "eduarda.vieira@vitta.me",
+        "login_manager": "ana.arocha@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-06-21 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "357666"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "eduarda.vieira@vitta.me",
+        "name": "EDUARDA VIEIRA DO NASCIMENTO",
+        "email": "eduarda.vieira@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:23.377892"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "hugo.sampaio@equals.com.br",
+        "name": "HUGO PABLO BONFIM LOPES SAMPAIO",
+        "team": "[2263] SOFTWARE # EQUALS CORE - INFRAESTRUTURA @ SAO PAULO",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "hugo.sampaio@equals.com.br",
+        "login_manager": "guilherme.ferreira@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-11-03 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "358114"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "hugo.sampaio@equals.com.br",
+        "name": "HUGO PABLO BONFIM LOPES SAMPAIO",
+        "email": "hugo.sampaio@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:24.080794"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "rogerio.teodoro@vitta.me",
+        "name": "ROGERIO TEODORO DA SILVA FILHO",
+        "team": "[3603] VITTA # VITTA KA # OPERAÇÕES CORRETAGEM # ATIVAÇÃO",
+        "position": "ANALISTA DE OPERAÇÕES",
+        "email": "rogerio.teodoro@vitta.me",
+        "login_manager": "cleomar.dourado@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-08-22 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "359580"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "rogerio.teodoro@vitta.me",
+        "name": "ROGERIO TEODORO DA SILVA FILHO",
+        "email": "rogerio.teodoro@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:24.778231"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "giovanna.nazareno@equals.com.br",
+        "name": "GIOVANNA ERBERT NAZARENO",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "ANALISTA DE IMPLANTACAO",
+        "email": "giovanna.nazareno@equals.com.br",
+        "login_manager": "lucas.goncalves@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-04-18 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "362102"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "giovanna.nazareno@equals.com.br",
+        "name": "GIOVANNA ERBERT NAZARENO",
+        "email": "giovanna.nazareno@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:25.468419"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "tarcisio.castro@equals.com.br",
+        "name": "TARCISIO LEVI DE CASTRO",
+        "team": "[2286] SOFTWARE # EQUALS RAIO X - OPERAÇÃO TRANSACIONAL @ LAVRAS",
+        "position": "ANALISTA DE OPERACOES",
+        "email": "tarcisio.castro@equals.com.br",
+        "login_manager": "mayra.sousa@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-04-18 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "362111"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "tarcisio.castro@equals.com.br",
+        "name": "TARCISIO LEVI DE CASTRO",
+        "email": "tarcisio.castro@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:26.197758"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "gabriel.maximiniano@vitta.me",
+        "name": "GABRIEL MAXIMINIANO CARDOSO SANTOS",
+        "team": "[3618] VITTA # VITTA KA # TECNOLOGIA # WEB # CLINICAL STAFF",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "gabriel.maximiniano@vitta.me",
+        "login_manager": "luis.henrique@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-05-02 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "362371"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "gabriel.maximiniano@vitta.me",
+        "name": "GABRIEL MAXIMINIANO CARDOSO SANTOS",
+        "email": "gabriel.maximiniano@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:26.198705"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "ciro.gomes@vitta.me",
+        "name": "CIRO DA SILVA GOMES",
+        "team": "[3619] VITTA # VITTA KA # TECNOLOGIA # WEB # HRS",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "ciro.gomes@vitta.me",
+        "login_manager": "luis.henrique@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-06-20 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "363527"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "ciro.gomes@vitta.me",
+        "name": "CIRO DA SILVA GOMES",
+        "email": "ciro.gomes@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:26.842232"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "patrik.lima@stone.com.br",
+        "name": "PATRIK BRAGA LIMA",
+        "team": "[128] COMERCIAL MUNDO FÍSICO # POLO PRÓPRIO @ POLO JI-PARANA",
+        "position": "AGENTE",
+        "email": "patrik.lima@stone.com.br",
+        "login_manager": "natali.silva@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_gps"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-06-20 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "363659"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "patrik.lima@stone.com.br",
+        "name": "PATRIK BRAGA LIMA",
+        "email": "patrik.lima@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:27.563620"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "constance.bueno@equals.com.br",
+        "name": "CONSTANCE ALVAREZ AMARAL MELO BUENO",
+        "team": "[625] SOFTWARE # EQUALS CORE - FORÇA DE VENDAS",
+        "position": "EXECUTIVO DE CONTAS",
+        "email": "constance.bueno@equals.com.br",
+        "login_manager": "deborah.nunes@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-11-07 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "366989"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "constance.bueno@equals.com.br",
+        "name": "CONSTANCE ALVAREZ AMARAL MELO BUENO",
+        "email": "constance.bueno@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:28.215027"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "henrique.castro@equals.com.br",
+        "name": "HENRIQUE AUGUSTO VIEIRA CASTRO",
+        "team": "[2263] SOFTWARE # EQUALS CORE - INFRAESTRUTURA @ SAO PAULO",
+        "position": "QA",
+        "email": "henrique.castro@equals.com.br",
+        "login_manager": "guilherme.ferreira@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-12-12 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "367996"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "henrique.castro@equals.com.br",
+        "name": "HENRIQUE AUGUSTO VIEIRA CASTRO",
+        "email": "henrique.castro@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:28.931517"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "philippo.chies@equals.com.br",
+        "name": "PHILIPPO GOMES CHIES",
+        "team": "[2267] SOFTWARE # EQUALS RAIO X - BACKOFFICE DE PRODUTO @ SAO PAULO",
+        "position": "DESIGNER UX/UI",
+        "email": "philippo.chies@equals.com.br",
+        "login_manager": "isadora.rodrigues@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-01-02 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "368520"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "philippo.chies@equals.com.br",
+        "name": "PHILIPPO GOMES CHIES",
+        "email": "philippo.chies@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:28.932538"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jessica.clemente@vitta.me",
+        "name": "JESSICA CAROLAYNE RODRIGUES CLEMENTE",
+        "team": "[4371] VITTA # VITTA KA # OPERAÇÕES FRONTOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "jessica.clemente@vitta.me",
+        "login_manager": "ana.arocha@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-02-13 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "369733"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jessica.clemente@vitta.me",
+        "name": "JESSICA CAROLAYNE RODRIGUES CLEMENTE",
+        "email": "jessica.clemente@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:28.933594"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "pedro.diogo@vitta.me",
+        "name": "PEDRO HENRIQUE DIOGO BRAGA",
+        "team": "[4371] VITTA # VITTA KA # OPERAÇÕES FRONTOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "pedro.diogo@vitta.me",
+        "login_manager": "ana.arocha@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-03-06 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "369953"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "pedro.diogo@vitta.me",
+        "name": "PEDRO HENRIQUE DIOGO BRAGA",
+        "email": "pedro.diogo@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:29.649440"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "isabella.azevedo@vitta.me",
+        "name": "ISABELLA SOUZA AZEVEDO",
+        "team": "[4371] VITTA # VITTA KA # OPERAÇÕES FRONTOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "isabella.azevedo@vitta.me",
+        "login_manager": "douglas.pascoal@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-03-06 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "369954"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "isabella.azevedo@vitta.me",
+        "name": "ISABELLA SOUZA AZEVEDO",
+        "email": "isabella.azevedo@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:30.343386"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "lucas.grodrigues@vitta.me",
+        "name": "LUCAS GONCALVES RODRIGUES",
+        "team": "[4371] VITTA # VITTA KA # OPERAÇÕES FRONTOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "lucas.grodrigues@vitta.me",
+        "login_manager": "douglas.pascoal@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-03-06 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "369958"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "lucas.grodrigues@vitta.me",
+        "name": "LUCAS GONCALVES RODRIGUES",
+        "email": "lucas.grodrigues@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:30.994699"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "ana.pazin@vitta.me",
+        "name": "ANA FLAVIA BUENO ARANTES PAZIN",
+        "team": "[4371] VITTA # VITTA KA # OPERAÇÕES FRONTOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "ana.pazin@vitta.me",
+        "login_manager": "douglas.pascoal@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-03-06 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "370005"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "ana.pazin@vitta.me",
+        "name": "ANA FLAVIA BUENO ARANTES PAZIN",
+        "email": "ana.pazin@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:31.633239"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "matheus.callegari@vitta.me",
+        "name": "MATHEUS RIZZO CALLEGARI",
+        "team": "[4371] VITTA # VITTA KA # OPERAÇÕES FRONTOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "matheus.callegari@vitta.me",
+        "login_manager": "douglas.pascoal@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-04-17 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "370901"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "matheus.callegari@vitta.me",
+        "name": "MATHEUS RIZZO CALLEGARI",
+        "email": "matheus.callegari@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:32.341120"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "mayara.correa@equals.com.br",
+        "name": "MAYARA RODRIGUES DE SOUZA CORREA",
+        "team": "[2301] SOFTWARE # EQUALS CORE - RC @ SAO PAULO",
+        "position": "LIDER DE MESA DO RC",
+        "email": "mayara.correa@equals.com.br",
+        "login_manager": "geizebel.oliveira@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-05-15 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "371497"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "mayara.correa@equals.com.br",
+        "name": "MAYARA RODRIGUES DE SOUZA CORREA",
+        "email": "mayara.correa@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:33.037131"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "guilherme.dossantos@vitta.me",
+        "name": "GUILHERME MARQUES DOS SANTOS",
+        "team": "[4360] VITTA # VITTA KA # OPERAÇÕES CORRETAGEM",
+        "position": "SUPERVISOR DE OPERAÇÕES",
+        "email": "guilherme.dossantos@vitta.me",
+        "login_manager": "fatima.chiavelli@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-05-15 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "371600"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "guilherme.dossantos@vitta.me",
+        "name": "GUILHERME MARQUES DOS SANTOS",
+        "email": "guilherme.dossantos@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:33.695720"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "ana.cconceicao@vitta.me",
+        "name": "ANA CAROLINA MARIA DA CONCEICAO",
+        "team": "[4371] VITTA # VITTA KA # OPERAÇÕES FRONTOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "ana.cconceicao@vitta.me",
+        "login_manager": "douglas.pascoal@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-06-05 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "372007"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "ana.cconceicao@vitta.me",
+        "name": "ANA CAROLINA MARIA DA CONCEICAO",
+        "email": "ana.cconceicao@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:34.416924"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "fabiana.leite@vitta.me",
+        "name": "FABIANA SOUZA LEITE",
+        "team": "[3639] VITTA # VITTA KA # OPERAÇÕES AMBULATORIAIS # SUPORTE",
+        "position": "ANALISTA FINANCEIRO ",
+        "email": "fabiana.leite@vitta.me",
+        "login_manager": "lucio.marcatto@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-08-01 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "373196"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "fabiana.leite@vitta.me",
+        "name": "FABIANA SOUZA LEITE",
+        "email": "fabiana.leite@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:34.417952"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "gabriel.hancio@vitta.me",
+        "name": "GABRIEL RODRIGUES HANCIO",
+        "team": "[4372] VITTA # VITTA KA # OPERAÇÕES BACKOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "gabriel.hancio@vitta.me",
+        "login_manager": "ana.arocha@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-08-01 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "373383"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "gabriel.hancio@vitta.me",
+        "name": "GABRIEL RODRIGUES HANCIO",
+        "email": "gabriel.hancio@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:34.418752"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "mylena.conceicao@vitta.me",
+        "name": "MYLENA TILLMANN FREITAS DA CONCEICAO",
+        "team": "[4371] VITTA # VITTA KA # OPERAÇÕES FRONTOFFICE",
+        "position": "ANALISTA DE ATENDIMENTO ",
+        "email": "mylena.conceicao@vitta.me",
+        "login_manager": "ana.arocha@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-08-14 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "373572"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "mylena.conceicao@vitta.me",
+        "name": "MYLENA TILLMANN FREITAS DA CONCEICAO",
+        "email": "mylena.conceicao@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:35.187213"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "giovanna.souza@vitta.me",
+        "name": "GIOVANNA SOUZA SILVA",
+        "team": "[4371] VITTA # VITTA KA # OPERAÇÕES FRONTOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "giovanna.souza@vitta.me",
+        "login_manager": "douglas.pascoal@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-12-18 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "376433"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "giovanna.souza@vitta.me",
+        "name": "GIOVANNA SOUZA SILVA",
+        "email": "giovanna.souza@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:35.889787"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "fernanda.aparecida@vitta.me",
+        "name": "FERNANDA APARECIDA MOREIRA FERNANDES",
+        "team": "[3641] VITTA # VITTA KA # TIME DE MEDICINA # MEMBROS # FRONTOFFICE",
+        "position": "ASSISTENTE PESSOAL",
+        "email": "fernanda.aparecida@vitta.me",
+        "login_manager": "douglas.pascoal@vitta.me",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-12-18 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "376460"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "fernanda.aparecida@vitta.me",
+        "name": "FERNANDA APARECIDA MOREIRA FERNANDES",
+        "email": "fernanda.aparecida@vitta.me",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:35.890956"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "ary.andrade@stone.com.br",
+        "name": "ARY ANDRADE NETO",
+        "team": "[3791] TECNOLOGIA # PRODUTO # OPERATIONS PRODUCT # ATENDIMENTO E SERVIÇO - LOGÍSTICA",
+        "position": "DESENVOLVEDOR",
+        "email": "ary.andrade@stone.com.br",
+        "login_manager": "gabriel.xara@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-01-18 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "38254"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "ary.andrade@stone.com.br",
+        "name": "ARY ANDRADE NETO",
+        "email": "ary.andrade@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:35.891816"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "denis.pereira@equals.com.br",
+        "name": "DENIS CESAR PEREIRA",
+        "team": "[2260] SOFTWARE # EQUALS CORE - DESENVOLVIMENTO @ LAVRAS",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "denis.pereira@equals.com.br",
+        "login_manager": "flavio.souza@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2019-02-18 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "4092"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "denis.pereira@equals.com.br",
+        "name": "DENIS CESAR PEREIRA",
+        "email": "denis.pereira@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:36.558025"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "bruno.oliveira@equals.com.br",
+        "name": "BRUNO VIANNA DE OLIVEIRA",
+        "team": "[2294] SOFTWARE # EQUALS RAIO X - TECNOLOGIA MP @ LAVRAS",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "bruno.oliveira@equals.com.br",
+        "login_manager": "anderson.camargo@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2019-08-19 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "4230"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "bruno.oliveira@equals.com.br",
+        "name": "BRUNO VIANNA DE OLIVEIRA",
+        "email": "bruno.oliveira@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:36.558886"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "sschwartz@stone.com.br",
+        "name": "STEPHAN BEYRUTH SCHWARTZ",
+        "team": "[3570] G&G CSC E OPERAÇÕES # LOGÍSTICA # OPERAÇÃO # REMOTE OPS",
+        "position": "HEAD LOGISTICA",
+        "email": "sschwartz@stone.com.br",
+        "login_manager": "leonardo.amazonas@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_logistica", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2015-09-03 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "4283"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "sschwartz@stone.com.br",
+        "name": "STEPHAN BEYRUTH SCHWARTZ",
+        "email": "sschwartz@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:37.333040"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jcsilva@stone.com.br",
+        "name": "JOAO MARCOS OLIVEIRA DE CARVALHO DA SILVA",
+        "team": "[3226] PLATAFORMA FINANCEIRA # PESSOAS # LOGÍSTICA",
+        "position": "LIDER DE PESSOAS E PERFORMANCE",
+        "email": "jcsilva@stone.com.br",
+        "login_manager": "rafael.morassi@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2015-12-14 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "4769"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jcsilva@stone.com.br",
+        "name": "JOAO MARCOS OLIVEIRA DE CARVALHO DA SILVA",
+        "email": "jcsilva@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:38.057396"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "douglas.sardinha@stone.com.br",
+        "name": "DOUGLAS DA SILVA SARDINHA",
+        "team": "[3155] LOGÍSTICA # OPERAÇÃO LMP - LIDERANCA # SUDESTE",
+        "position": "LIDER REGIONAL DE LOGISTICA",
+        "email": "douglas.sardinha@stone.com.br",
+        "login_manager": "lferreira@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_logistica", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2017-11-21 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "5093"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "douglas.sardinha@stone.com.br",
+        "name": "DOUGLAS DA SILVA SARDINHA",
+        "email": "douglas.sardinha@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:38.058324"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "ymarinho@stone.com.br",
+        "name": "YASMIN MAGNO MARINHO",
+        "team": "[3232] G&G CSC E OPERAÇÕES # LOGÍSTICA # PLANEJAMENTO & FINANCEIRO # FINANCEIRO",
+        "position": "LIDER DE PLANEJAMENTO FINANCEIRO",
+        "email": "ymarinho@stone.com.br",
+        "login_manager": "pedro.barata@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_logistica", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2017-08-14 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "5902"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "ymarinho@stone.com.br",
+        "name": "YASMIN MAGNO MARINHO",
+        "email": "ymarinho@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:38.804143"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jaqueline.nicolau@equals.com.br",
+        "name": "JAQUELINE DA SILVA NICOLAU",
+        "team": "[2290] SOFTWARE # EQUALS RAIO X - TECNOLOGIA APP/WEB/API @ LAVRAS",
+        "position": "ANALISTA DE negocios",
+        "email": "jaqueline.nicolau@equals.com.br",
+        "login_manager": "denis.pereira@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-05-02 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "60017"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jaqueline.nicolau@equals.com.br",
+        "name": "JAQUELINE DA SILVA NICOLAU",
+        "email": "jaqueline.nicolau@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:39.508409"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "juliana.vieira@stone.com.br",
+        "name": "JULIANA DE CARVALHO VIEIRA",
+        "team": "[3232] G&G CSC E OPERAÇÕES # LOGÍSTICA # PLANEJAMENTO & FINANCEIRO # FINANCEIRO",
+        "position": "ANALISTA DE PLANEJAMENTO E CONTROLE",
+        "email": "juliana.vieira@stone.com.br",
+        "login_manager": "ymarinho@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_logistica"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2020-01-07 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "7040"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "juliana.vieira@stone.com.br",
+        "name": "JULIANA DE CARVALHO VIEIRA",
+        "email": "juliana.vieira@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:40.196998"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "mariana.brito@stone.com.br",
+        "name": "MARIANA LIMA DE BRITO OLIVEIRA",
+        "team": "[3791] TECNOLOGIA # PRODUTO # OPERATIONS PRODUCT # ATENDIMENTO E SERVIÇO - LOGÍSTICA",
+        "position": "LIDER TECNICO DE DESENVOLVIMENTO",
+        "email": "mariana.brito@stone.com.br",
+        "login_manager": "boneves@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2019-05-06 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "7487"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "mariana.brito@stone.com.br",
+        "name": "MARIANA LIMA DE BRITO OLIVEIRA",
+        "email": "mariana.brito@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:40.198322"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jeferson.barbosa@equals.com.br",
+        "name": "JEFERSON BARROS BARBOSA",
+        "team": "[2263] SOFTWARE # EQUALS CORE - INFRAESTRUTURA @ SAO PAULO",
+        "position": "INFRAESTRUTURA",
+        "email": "jeferson.barbosa@equals.com.br",
+        "login_manager": "aramis.marques@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2018-02-01 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "7625"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jeferson.barbosa@equals.com.br",
+        "name": "JEFERSON BARROS BARBOSA",
+        "email": "jeferson.barbosa@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:40.198921"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "vitor.manfredini@stone.com.br",
+        "name": "VITOR MANFREDINI DOS SANTOS",
+        "team": "[2793] LOGÍSTICA # OPERAÇÃO # LMP # GREEN ANGELS # SP - DISTRITO SP LESTE # POLO BUNKER SP LESTE",
+        "position": "GREEN ANGEL",
+        "email": "vitor.manfredini@stone.com.br",
+        "login_manager": "vitor.santos@stone.com.br",
+        "active": "nao",
+        "groups": ["grp_all_stone", "grp_logistica"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2019-08-19 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "9975"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "vitor.manfredini@stone.com.br",
+        "name": "VITOR MANFREDINI DOS SANTOS",
+        "email": "vitor.manfredini@stone.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:40.870319"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "suzana.yamaguchi@equals.com.br",
+        "name": "SUZANA MAYUMI YAMAGUCHI",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "ANALISTA DE PROJETOS DE IMPLANTACAO",
+        "email": "suzana.yamaguchi@equals.com.br",
+        "login_manager": null,
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2018-02-05 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "10154"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "suzana.yamaguchi@equals.com.br",
+        "name": "SUZANA MAYUMI YAMAGUCHI",
+        "email": "suzana.yamaguchi@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:41.554883"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "lucas.goncalves@equals.com.br",
+        "name": "LUCAS PEREZ GONCALVES",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "LIDER DE MESA DE IMPLANTACAO",
+        "email": "lucas.goncalves@equals.com.br",
+        "login_manager": "larissa.lopes@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2018-04-02 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "10215"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "lucas.goncalves@equals.com.br",
+        "name": "LUCAS PEREZ GONCALVES",
+        "email": "lucas.goncalves@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:41.555810"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "igor.martins@equals.com.br",
+        "name": "IGOR SILVA MARTINS",
+        "team": "[2297] SOFTWARE # EQUALS RAIO X - TECNOLOGIA PRODUTOS @ SAO PAULO",
+        "position": "PRODUTO",
+        "email": "igor.martins@equals.com.br",
+        "login_manager": "peter.fernandes@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2018-02-19 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "10853"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "igor.martins@equals.com.br",
+        "name": "IGOR SILVA MARTINS",
+        "email": "igor.martins@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:42.250382"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "henrique.silva@equals.com.br",
+        "name": "HENRIQUE SANTOS SILVA",
+        "team": "[2259] SOFTWARE # EQUALS CORE - DESENVOLVIMENTO @ SAO PAULO",
+        "position": "ANALISTA DE RELACIONAMENTO",
+        "email": "henrique.silva@equals.com.br",
+        "login_manager": "marcela.alvarenga@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2018-08-06 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "11339"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "henrique.silva@equals.com.br",
+        "name": "HENRIQUE SANTOS SILVA",
+        "email": "henrique.silva@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:42.251356"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "gabrielle.feitosa@equals.com.br",
+        "name": "GABRIELLE MIGUEL FEITOSA",
+        "team": "[2295] SOFTWARE # EQUALS RAIO X - TECNOLOGIA ONBOARDING @ SAO PAULO",
+        "position": "ANALISTA DE INTEGRACOES",
+        "email": "gabrielle.feitosa@equals.com.br",
+        "login_manager": "joao.borges@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2019-08-05 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "11508"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "gabrielle.feitosa@equals.com.br",
+        "name": "GABRIELLE MIGUEL FEITOSA",
+        "email": "gabrielle.feitosa@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:42.252059"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "pedro.reno@equals.com.br",
+        "name": "PEDRO HENRIQUE COURA RENO",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "ANALISTA DE INTEGRACOES",
+        "email": "pedro.reno@equals.com.br",
+        "login_manager": "joao.borges@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2019-09-16 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "2661"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "pedro.reno@equals.com.br",
+        "name": "PEDRO HENRIQUE COURA RENO",
+        "email": "pedro.reno@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:42.952349"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jhenifer.purkot@equals.com.br",
+        "name": "JHENIFER LARISSA PURKOT",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "ANALISTA DE PROJETOS DE IMPLANTACAO",
+        "email": "jhenifer.purkot@equals.com.br",
+        "login_manager": "alessandro.silva@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2019-09-16 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "2861"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jhenifer.purkot@equals.com.br",
+        "name": "JHENIFER LARISSA PURKOT",
+        "email": "jhenifer.purkot@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:43.647023"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "marcelo.garcia@equals.com.br",
+        "name": "MARCELO LUIZ GARCIA",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "DIRETOR DE OPERACOES",
+        "email": "marcelo.garcia@equals.com.br",
+        "login_manager": "sandro.bassili@stone.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-10-01 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "3419"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "marcelo.garcia@equals.com.br",
+        "name": "MARCELO LUIZ GARCIA",
+        "email": "marcelo.garcia@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:43.647859"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "thiago.santos@equals.com.br",
+        "name": "THIAGO FARIAS DOS SANTOS",
+        "team": "[2261] SOFTWARE # EQUALS CORE - FORÇA DE VENDAS @ SAO PAULO",
+        "position": "LIDER DE VENDAS",
+        "email": "thiago.santos@equals.com.br",
+        "login_manager": "larissa.facin@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-01-04 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "345190"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "thiago.santos@equals.com.br",
+        "name": "THIAGO FARIAS DOS SANTOS",
+        "email": "thiago.santos@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:44.286603"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "priscila.rosa@equals.com.br",
+        "name": "PRISCILA LUIZ ROSA",
+        "team": "[2266] SOFTWARE # EQUALS CORE - OPERAÇÃO @ LAVRAS",
+        "position": "COORDENADOR DE OPERACOES",
+        "email": "priscila.rosa@equals.com.br",
+        "login_manager": "alessandro.vacari@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-03-15 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "348055"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "priscila.rosa@equals.com.br",
+        "name": "PRISCILA LUIZ ROSA",
+        "email": "priscila.rosa@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:45.080917"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "renan.oliveira@equals.com.br",
+        "name": "RENAN DOUGLAS GATTO DE OLIVEIRA",
+        "team": "[2264] SOFTWARE # EQUALS CORE - INFRAESTRUTURA @ LAVRAS",
+        "position": "DADOS",
+        "email": "renan.oliveira@equals.com.br",
+        "login_manager": "aramis.marques@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2018-12-03 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "3487"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "renan.oliveira@equals.com.br",
+        "name": "RENAN DOUGLAS GATTO DE OLIVEIRA",
+        "email": "renan.oliveira@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:45.081794"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "gabriel.germoliato@equals.com.br",
+        "name": "GABRIEL DA SILVA GERMOLIATO",
+        "team": "[2301] SOFTWARE # EQUALS CORE - RC @ SAO PAULO",
+        "position": "ANALISTA DE RELACIONAMENTO",
+        "email": "gabriel.germoliato@equals.com.br",
+        "login_manager": "gabriel.nunes@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-05-03 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "350093"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "gabriel.germoliato@equals.com.br",
+        "name": "GABRIEL DA SILVA GERMOLIATO",
+        "email": "gabriel.germoliato@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:45.769302"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "bernardo.silva@equals.com.br",
+        "name": "BERNARDO DE ALMEIDA SILVA",
+        "team": "[625] SOFTWARE # EQUALS CORE - FORÇA DE VENDAS",
+        "position": "EXECUTIVO DE CONTAS",
+        "email": "bernardo.silva@equals.com.br",
+        "login_manager": "ricardo.oliveira@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-09-04 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "351576"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "bernardo.silva@equals.com.br",
+        "name": "BERNARDO DE ALMEIDA SILVA",
+        "email": "bernardo.silva@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:45.771318"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "livia.silva@equals.com.br",
+        "name": "LIVIA DA PAZ SILVA",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "ANALISTA DE PLANEJAMENTO",
+        "email": "livia.silva@equals.com.br",
+        "login_manager": "frederico.castro@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-07-05 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "352387"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "livia.silva@equals.com.br",
+        "name": "LIVIA DA PAZ SILVA",
+        "email": "livia.silva@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:46.414060"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "vitor.caldeira@equals.com.br",
+        "name": "VITOR MOREIRA FERNANDES VILAS NOVAS CALDEIRA",
+        "team": "[2260] SOFTWARE # EQUALS CORE - DESENVOLVIMENTO @ LAVRAS",
+        "position": "ANALISTA DE negocios",
+        "email": "vitor.caldeira@equals.com.br",
+        "login_manager": "flavio.souza@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-08-02 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "353362"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "vitor.caldeira@equals.com.br",
+        "name": "VITOR MOREIRA FERNANDES VILAS NOVAS CALDEIRA",
+        "email": "vitor.caldeira@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:47.072342"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "frederico.castro@equals.com.br",
+        "name": "FREDERICO JORGE GONCALVES DE CASTRO",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "ANALISTA DE PLANEJAMENTO",
+        "email": "frederico.castro@equals.com.br",
+        "login_manager": "anna.cunha@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-11-16 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "358197"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "frederico.castro@equals.com.br",
+        "name": "FREDERICO JORGE GONCALVES DE CASTRO",
+        "email": "frederico.castro@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:47.777312"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "everton.vilela@equals.com.br",
+        "name": "EVERTON HENRIQUE BATISTA VILELA",
+        "team": "[2264] SOFTWARE # EQUALS CORE - INFRAESTRUTURA @ LAVRAS",
+        "position": "INFRAESTRUTURA",
+        "email": "everton.vilela@equals.com.br",
+        "login_manager": "eulino.netto@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-11-16 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "358205"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "everton.vilela@equals.com.br",
+        "name": "EVERTON HENRIQUE BATISTA VILELA",
+        "email": "everton.vilela@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:48.548346"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "isadora.rodrigues@equals.com.br",
+        "name": "ISADORA MOREIRA RODRIGUES",
+        "team": "[2267] SOFTWARE # EQUALS RAIO X - BACKOFFICE DE PRODUTO @ SAO PAULO",
+        "position": "DESIGNER UX/UI",
+        "email": "isadora.rodrigues@equals.com.br",
+        "login_manager": "peter.fernandes@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-12-06 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "358907"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "isadora.rodrigues@equals.com.br",
+        "name": "ISADORA MOREIRA RODRIGUES",
+        "email": "isadora.rodrigues@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:48.549751"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "marcelo.eduardo@equals.com.br",
+        "name": "MARCELO ROBSON EDUARDO",
+        "team": "[2261] SOFTWARE # EQUALS CORE - FORÇA DE VENDAS @ SAO PAULO",
+        "position": "EXECUTIVO DE CONTAS",
+        "email": "marcelo.eduardo@equals.com.br",
+        "login_manager": "thiago.santos@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-04-04 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "361650"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "marcelo.eduardo@equals.com.br",
+        "name": "MARCELO ROBSON EDUARDO",
+        "email": "marcelo.eduardo@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:48.550531"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "roger.barbosa@equals.com.br",
+        "name": "ROGER SCHORR BARBOSA",
+        "team": "[2259] SOFTWARE # EQUALS CORE - DESENVOLVIMENTO @ SAO PAULO",
+        "position": "ANALISTA DE RELACIONAMENTO",
+        "email": "roger.barbosa@equals.com.br",
+        "login_manager": "michelle.castro@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2017-04-03 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "363476"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "roger.barbosa@equals.com.br",
+        "name": "ROGER SCHORR BARBOSA",
+        "email": "roger.barbosa@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:49.204462"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "yanca.silva@equals.com.br",
+        "name": "YANCA MARQUES DA SILVA",
+        "team": "[2301] SOFTWARE # EQUALS CORE - RC @ SAO PAULO",
+        "position": "ANALISTA DE RELACIONAMENTO",
+        "email": "yanca.silva@equals.com.br",
+        "login_manager": "gabriel.nunes@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-08-01 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "364552"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "yanca.silva@equals.com.br",
+        "name": "YANCA MARQUES DA SILVA",
+        "email": "yanca.silva@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:49.923080"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jhordan.correa@equals.com.br",
+        "name": "JHORDAN ALBERTO CORREA",
+        "team": "[2301] SOFTWARE # EQUALS CORE - RC @ SAO PAULO",
+        "position": "ANALISTA DE RELACIONAMENTO",
+        "email": "jhordan.correa@equals.com.br",
+        "login_manager": "gabriel.nunes@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-08-01 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "364573"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jhordan.correa@equals.com.br",
+        "name": "JHORDAN ALBERTO CORREA",
+        "email": "jhordan.correa@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:49.924190"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "thomas.silva@equals.com.br",
+        "name": "THOMAS LUCAS NASCIMENTO DA SILVA",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "ANALISTA DE INTEGRACOES",
+        "email": "thomas.silva@equals.com.br",
+        "login_manager": "joao.borges@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-08-01 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "364585"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "thomas.silva@equals.com.br",
+        "name": "THOMAS LUCAS NASCIMENTO DA SILVA",
+        "email": "thomas.silva@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:49.924878"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jessica.marins@equals.com.br",
+        "name": "JESSICA MARQUES MARINS",
+        "team": "[2257] SOFTWARE # EQUALS CORE - BACKOFFICE DE PRODUTO @ SAO PAULO",
+        "position": "DESIGNER UX/UI",
+        "email": "jessica.marins@equals.com.br",
+        "login_manager": "isadora.rodrigues@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-10-18 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "366458"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jessica.marins@equals.com.br",
+        "name": "JESSICA MARQUES MARINS",
+        "email": "jessica.marins@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:49.925458"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "anna.cunha@equals.com.br",
+        "name": "ANNA CAROLINA OLIVEIRA RODRIGUES CUNHA",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "COORDENADOR(A) DE AUDITORIA/COMPLIANCE",
+        "email": "anna.cunha@equals.com.br",
+        "login_manager": "marcelo.garcia@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2020-01-20 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "36690"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "anna.cunha@equals.com.br",
+        "name": "ANNA CAROLINA OLIVEIRA RODRIGUES CUNHA",
+        "email": "anna.cunha@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:49.926048"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "leandro.oshiro@equals.com.br",
+        "name": "LEANDRO KENJI OSHIRO",
+        "team": "[2290] SOFTWARE # EQUALS RAIO X - TECNOLOGIA APP/WEB/API @ LAVRAS",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "leandro.oshiro@equals.com.br",
+        "login_manager": "nathan.hegedus@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-12-12 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "367964"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "leandro.oshiro@equals.com.br",
+        "name": "LEANDRO KENJI OSHIRO",
+        "email": "leandro.oshiro@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:50.602250"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "beatriz.barbosa@equals.com.br",
+        "name": "BEATRIZ CRSITINA VASCONCELOS BARBOSA",
+        "team": "[2265] SOFTWARE # EQUALS CORE - OPERAÇÃO @ SAO PAULO",
+        "position": "ANALISTA DE PLANEJAMENTO",
+        "email": "beatriz.barbosa@equals.com.br",
+        "login_manager": "larissa.lopes@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2022-12-12 00:00:00",
+          "10_sexo": "Feminino",
+          "11_id_de_pessoa": "367981"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "beatriz.barbosa@equals.com.br",
+        "name": "BEATRIZ CRSITINA VASCONCELOS BARBOSA",
+        "email": "beatriz.barbosa@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:51.306826"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "rhuan.santos@equals.com.br",
+        "name": "RHUAN LUCAS GOMES DOS SANTOS",
+        "team": "[2286] SOFTWARE # EQUALS RAIO X - OPERAÇÃO TRANSACIONAL @ LAVRAS",
+        "position": "ANALISTA DE OPERACOES",
+        "email": "rhuan.santos@equals.com.br",
+        "login_manager": "denis.silva@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-03-06 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "369939"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "rhuan.santos@equals.com.br",
+        "name": "RHUAN LUCAS GOMES DOS SANTOS",
+        "email": "rhuan.santos@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:51.307794"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "ariel.marques@equals.com.br",
+        "name": "ARIEL FELIPE FERREIRA MARQUES",
+        "team": "[2260] SOFTWARE # EQUALS CORE - DESENVOLVIMENTO @ LAVRAS",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "ariel.marques@equals.com.br",
+        "login_manager": "anderson.camargo@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2017-10-16 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "3708"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "ariel.marques@equals.com.br",
+        "name": "ARIEL FELIPE FERREIRA MARQUES",
+        "email": "ariel.marques@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:52.095711"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "samuel.ferreira@equals.com.br",
+        "name": "SAMUEL LUIZ FREITAS FERREIRA",
+        "team": "[2264] SOFTWARE # EQUALS CORE - INFRAESTRUTURA @ LAVRAS",
+        "position": "DADOS",
+        "email": "samuel.ferreira@equals.com.br",
+        "login_manager": "renan.oliveira@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-11-04 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "37252"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "samuel.ferreira@equals.com.br",
+        "name": "SAMUEL LUIZ FREITAS FERREIRA",
+        "email": "samuel.ferreira@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:52.786495"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "jario.junior@equals.com.br",
+        "name": "JARIO ROCHA DOS SANTOS JUNIOR",
+        "team": "[629] SOFTWARE # EQUALS RAIO X - TECNOLOGIA",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "jario.junior@equals.com.br",
+        "login_manager": "igor.paiva@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2023-09-18 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "374211"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "jario.junior@equals.com.br",
+        "name": "JARIO ROCHA DOS SANTOS JUNIOR",
+        "email": "jario.junior@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:52.787462"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "leonardo.guedes@equals.com.br",
+        "name": "LEONARDO MENTA GUEDES",
+        "team": "[2301] SOFTWARE # EQUALS CORE - RC @ SAO PAULO",
+        "position": "LIDER DE CUSTOMER SUCESS",
+        "email": "leonardo.guedes@equals.com.br",
+        "login_manager": "peter.fernandes@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2018-02-19 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "458"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "leonardo.guedes@equals.com.br",
+        "name": "LEONARDO MENTA GUEDES",
+        "email": "leonardo.guedes@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:53.463979"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "eduardo.sales@equals.com.br",
+        "name": "EDUARDO AUGUSTO SANTANA SALES",
+        "team": "[2266] SOFTWARE # EQUALS CORE - OPERAÇÃO @ LAVRAS",
+        "position": "ANALISTA DE OPERACOES",
+        "email": "eduardo.sales@equals.com.br",
+        "login_manager": "jose.alves@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2019-07-15 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "4763"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "eduardo.sales@equals.com.br",
+        "name": "EDUARDO AUGUSTO SANTANA SALES",
+        "email": "eduardo.sales@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:54.123977"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "guilherme.ferreira@equals.com.br",
+        "name": "GUILHERME MONTIJO BATISTA FERREIRA",
+        "team": "[2272] SOFTWARE # EQUALS RAIO X - INFRAESTRUTURA @ LAVRAS",
+        "position": "OPERACAO INFRAESTRUTURA",
+        "email": "guilherme.ferreira@equals.com.br",
+        "login_manager": "alessandro.vacari@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2020-03-10 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "5030"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "guilherme.ferreira@equals.com.br",
+        "name": "GUILHERME MONTIJO BATISTA FERREIRA",
+        "email": "guilherme.ferreira@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:54.821380"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "lucas.garcia@equals.com.br",
+        "name": "LUCAS LOPES GARCIA",
+        "team": "[2260] SOFTWARE # EQUALS CORE - DESENVOLVIMENTO @ LAVRAS",
+        "position": "PESSOA DESENVOLVEDORA",
+        "email": "lucas.garcia@equals.com.br",
+        "login_manager": "job.neto@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2021-04-05 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "79105"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "lucas.garcia@equals.com.br",
+        "name": "LUCAS LOPES GARCIA",
+        "email": "lucas.garcia@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:54.822168"
+  },
+  {
+    "tags": ["plusoft", "add_employee_payload"],
+    "callable_name": "__add_employee_to_payload",
+    "status": "success",
+    "result": {
+      "employee_payload": {
+        "login": "peter.fernandes@equals.com.br",
+        "name": "PETER STURKEN FERNANDES",
+        "team": "[2297] SOFTWARE # EQUALS RAIO X - TECNOLOGIA PRODUTOS @ SAO PAULO",
+        "position": "GERENTE DE PRODUTOS 1",
+        "email": "peter.fernandes@equals.com.br",
+        "login_manager": "marcelo.garcia@equals.com.br",
+        "active": "sim",
+        "groups": ["grp_all_stone", "grp_lideres_stone_co"],
+        "groups_option": 1,
+        "extra_fields": {
+          "1_data_de_admissao": "2016-06-21 00:00:00",
+          "10_sexo": "Masculino",
+          "11_id_de_pessoa": "8554"
+        },
+        "new_login": null
+      },
+      "remove_from_groups_payload": {
+        "login": "peter.fernandes@equals.com.br",
+        "name": "PETER STURKEN FERNANDES",
+        "email": "peter.fernandes@equals.com.br",
+        "groups": [
+          "grp_prevencao_a_fraudes",
+          "grp_auditoria_interna",
+          "grp_compliance",
+          "grp_desenvolvedores",
+          "grp_governanca",
+          "grp_gps",
+          "grp_logistica",
+          "grp_rc_ton_encantador",
+          "grp_lideres_stone_co",
+          "grp_treinamentos_banking_n2_credito",
+          "grp_matinalpolo"
+        ],
+        "groups_option": 3
+      }
+    },
+    "timestamp": "2024-05-22 10:25:54.822885"
+  }
+]
