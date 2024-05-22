@@ -1,5 +1,6 @@
 import express from "express";
 import databaseConnect from "./config/DbConnect.js";
+import routes from "./routes/index.js";
 
 const connection = await databaseConnect();
 
@@ -10,21 +11,7 @@ connection.once("open", () => {
 });
 
 const app = express();
-app.use(express.json());
-
-function getBookById(id) {
-  return books.findIndex((book) => book.id === Number(id));
-}
-
-app.get("/", (req, res) => {
-  res.status(200).send("Hello World, friend\n");
-});
-
-app.get("/authors", (req, res) => {});
-
-app.get("/books", (req, res) => {
-  res.status(200).json(books);
-});
+routes(app);
 
 app.get("/books/:id", (req, res) => {
   const index = getBookById(req.params.id);
