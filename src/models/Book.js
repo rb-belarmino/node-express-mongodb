@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { authorSchema } from "./Author.js";
 
 const bookSchema = new mongoose.Schema(
   {
@@ -20,6 +21,7 @@ const bookSchema = new mongoose.Schema(
     pages: {
       type: Number,
     },
+    author: authorSchema,
   },
   { versionkey: false }
 );
